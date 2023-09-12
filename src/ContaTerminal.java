@@ -1,6 +1,4 @@
-package br.com.santander.conta;
 
-import br.com.santander.Teclado;
 
 public class ContaTerminal {
 
